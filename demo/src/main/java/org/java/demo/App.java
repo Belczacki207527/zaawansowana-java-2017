@@ -6,6 +6,6 @@ package org.java.demo;
 public class App {
     public static void main(String[] args)
     {
-        System.out.print("TEST");
+        System.out.print("Gdzie jest travis?");
     }
 }
